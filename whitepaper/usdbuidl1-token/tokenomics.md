@@ -18,7 +18,7 @@ Let's take a look at how DAO treasury is distributing the rewards for different 
 
 | Precentage | Entity                  | Notes                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| 30%        | **Investor Rewards**    | Investors who have invested in the project listed in the platform                                   |
+| 30%        | **Investor Rewards**    | Investors who have invested in the project listed in the "Kickpad"                                 |
 | 21%        | **$BUIDL1 Staking**     | Locking period of will be from 6 month to 48 month.                                                    |
 | 21%        | **$BUIDL1 LP staking**  | You will need an LP-BUIDL1 token, which you will get from the Decentralised Exchange by providing liquidity |
 | 25%        | **Crowd Wisdom voting** | Crowd Wisdom Voting is proceed with $BUIDL1 tokens, LP-BUIDL1 tokens or staked $BUIDL1 tokens.         |
