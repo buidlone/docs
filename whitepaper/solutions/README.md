@@ -11,7 +11,7 @@ Based on market overview and common issues buidl1  is going to offer solutions t
 
 ### Milestones
 
-We present a new approach to managing incoming projects. Projects will receive more trust. All projects listed in the platform will have live roadmaps, a clear vision, and pre-planned funding allocations based on goals. Doing so, buidl1 will increase the overall trust of investors even if the project is in the early stage.
+We present a new approach to managing incoming projects. All projects listed in the platform will have live roadmaps, a clear vision, and pre-planned funding allocations based on goals. Doing so, buidl1 will increase the overall trust of investors even if the project is in the early stage.
 
 Projects can efficiently manage their positive cash flow since they can track it in real-time. Roadmap goals are defined and linked to financial projections that can be visible and easily monitored by potential investors through our ecosystem.
 
