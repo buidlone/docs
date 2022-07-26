@@ -2,9 +2,9 @@
 
 ## Lack of Trust
 
-Early-stage projects often lack trust in the eyes of investors because they have not been battle-tested. They have not weathered any storms and don’t have a track record of success. This is why it’s important to have diversified funding streams so that you’re not totally reliant on any one source of capital.&#x20;
+Early-stage projects often lack trust in the eyes of investors because they have not been battle-tested. They have not weathered any storms and don’t have a track record of success. That is why it’s important to have diversified funding streams so that you’re not totally reliant on any specific source of capital.&#x20;
 
-When you have multiple streams of funding, it sends a signal to investors that you’re a safe bet. They know that even if one stream dries up, you’ll still be able to keep the lights on. So if you’re looking to raise money for your project, make sure you have a diversified approach. It will go a long way in building trust with potential investors.
+When you have multiple streams of funding, it sends a signal to investors that you’re a safe bet. They know that even if one stream dries up, you’ll still be able to keep the lights on. So if you’re looking to raise capital for your project, make sure you have a diversified approach. It will go a long way in building trust with potential investors.
 
 One of the biggest factors that affect giving is trust from the public when scandals take place in space. In many cases, early-stage projects do not have diversified funding streams. When you have multiple ways to raise funds, you’ll never be totally strapped for cash.
 
@@ -18,7 +18,7 @@ The pressure is on the startup to then create a working prototype or MVP fast so
 
 This is why it is important to have a well-thought-out plan and timeline for your project so that you can secure the necessary funding and avoid pitfalls along the way. By having a clear understanding of the risks and challenges involved in starting up a new business, you can increase your chances of success.
 
-## Milestones =  Financial allocation
+## Milestones = Financial allocation
 
 Roadmap not defined specifically with respect of **finance allocations**;
 
