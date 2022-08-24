@@ -9,7 +9,7 @@
   * [Projects](whitepaper/main-challenges/projects.md)
 * [🏔 Solutions](whitepaper/solutions/README.md)
   * [Linear Cash Flow (LCF)](whitepaper/solutions/linear-cash-flow-lcf.md)
-  * [Milestones](whitepaper/solutions/milestones.md)
+  * [Voting pool](whitepaper/solutions/voting-pool.md)
   * [Investment pool](whitepaper/solutions/investment-pool.md)
   * [Governance pool](whitepaper/solutions/governance-pool.md)
 * [💡 How it works?](whitepaper/how-it-works/README.md)

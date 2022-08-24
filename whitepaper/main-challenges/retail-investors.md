@@ -4,7 +4,9 @@
 
 Most investors are losing money by allocating full investment into early-stage projects, due to the high risk of crypto projects not being completed.
 
-The main reason for this is the unorganized fundraising process workflow or dishonest founders. For example, a recent study found that out of 1,450 ICO projects, only 4% were successfully completed and 42% failed. This means that there is a high chance that your investment will not pan out if you invest in an early-stage project. Even if the project is completed, there is no guarantee that it will be successful. The founder may not have the necessary experience or expertise to make the project a success. The project may also be understaffed or underfunded, leading to delays or problems down the road. Before investing in any crypto project, be sure to do your research and only invest what you can afford to lose.
+The main reason for this is the unorganized fundraising process workflow or dishonest founders. For example, a recent study found that out of 1,450 ICO projects, only 4% were successfully completed and 42% failed. This means that there is a high chance that your investment will not pan out if you invest in an early-stage project.
+
+Even if the project is completed, there is no guarantee that it will be successful. The founder may not have the necessary experience or expertise to make the project a success. The project may also be understaffed or underfunded, leading to delays or problems down the road.
 
 According to Reuters, as more money pours into the space from retail and institutional players, bad actors will seek to take advantage of the hype to draw people into scams. A recent report by FTC (Federal Trade Commission) stated that around 7,000 U.S. consumers reported losing more than $80 million on various cryptocurrency scams between October 2020 and March 2021, with an average of $1,900 per transaction.
 

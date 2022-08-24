@@ -30,5 +30,5 @@ Let's talk about the flow of the money in the view of The Investment Pool:
 5. Project "ABC" has allocated $ABC tokens to its investors.&#x20;
 6. $ABC allocation will be distributed to initial investors using the LCF protocol
 
-![](<../../.gitbook/assets/image (8).png>)
+![Investment pool workflow](<../../.gitbook/assets/image (8).png>)
 
