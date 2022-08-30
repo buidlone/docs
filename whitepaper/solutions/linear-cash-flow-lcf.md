@@ -8,13 +8,17 @@ The Linear Cash Flow protocol offers a higher degree of safety for regular inves
 
 This type of cash flow has the potential to revolutionize the way that businesses and organizations operate. As more people learn about Linear Cash Flow (LCF), it is likely that it will become more popular and mainstream.
 
+LCF model uses Superfluid protocol that helps to have a continuous flow of money every second for both investors and projects
+
+
+
 ### Layer 1 solution
 
 Linear Cash Flow is a fairly new concept in the world of cryptocurrency and blockchain technology. It is a type of cash flow that is made on the protocol side by an Investment pool.&#x20;
 
 This allows for reducing the risk from the Investor side and ensures stable funds for projects. The pooling of resources helps to reduce the volatility that is often seen with cryptocurrency assets. In addition, Linear Cash Flow can help to ensure that projects have the necessary funding to continue operating.&#x20;
 
-The Linear Cash Flow protocol enables you to move assets on-chain following predefined rules called agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real-time! No further transactions are required. The Smart contract framework works on Layer 1 Ethereum, inspired by SuperFluid protocol.&#x20;
+The Linear Cash Flow protocol enables you to move assets on-chain following predefined rules called agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real-time! No further transactions are required. The Smart contract framework works on Layer 1 Ethereum,&#x20;
 
 #### Benefits
 
@@ -29,7 +33,7 @@ In short **LCF protocol** benefits:
 
 LCF protocol enables you to identify the conditions for releasing payments and automate the entire process. As a result, you can save time and reduce costs associated with traditional methods of asset transfer. The Linear Cash Flow protocol is an innovative way to move assets on-chain and provides a number of advantages over traditional methods.
 
-It is important to note that tokens allocated to the flow will not be deposited straight away. Instead, money is counted on a regular basis every second in proportionate installments. If investors are not happy with the overall results of the project, they can stop funding by proposing emergency fraud voting. This system ensures that projects are held accountable and that investors can recoup their funds if necessary. As a result, it is an important safeguard for both investors and project organizers.
+It is important to note that tokens allocated to the flow will not be deposited straight away. Instead, money is counted on a regular basis every second in proportionate installments. If investors are not happy with the overall results of the project, they can stop funding by voting for project rejection. This system ensures that projects are held accountable and that investors can recoup their funds if necessary. As a result, it is an important safeguard for both investors and project organizers.
 
 ### Real-time balances <a href="#39a6" id="39a6"></a>
 
