@@ -1,7 +1,6 @@
 # 📊Projects
 
 ## Lack of Trust
-****
 
 Early-stage projects often lack trust in the eyes of investors because they have not been battle-tested. They have not weathered any storms and don’t have a track record of success. Therefore, it’s important to have diversified funding streams so that you’re not totally reliant on one source of capital. 
 
@@ -10,7 +9,6 @@ When you have multiple streams of funding, it sends a signal to investors that y
 One of the biggest factors that affect giving is - trust from the public when scandals take place in space. In many cases, early-stage projects do not have diversified funding streams. When you have multiple ways to raise funds, you’ll never be strapped for cash. 
 
 ## Show your MVP
-****
 
 An early-stage pre-revenue start-up will have no record of its cash flow and revenues, which might indicate a considerable risk for investors. 
 
@@ -21,7 +19,6 @@ The pressure is on the start-up to then create a working prototype or MVP fast s
 Therefore, it is crucial to have a well-thought-out plan and timeline for your project so that you can secure the necessary funding and avoid pitfalls along the way. By clearly understanding the risks and challenges involved in starting up a new business, you can increase your chances of success. 
 
 ## Milestones =  Financial allocation
-****
 
 When it comes to raising capital, there is no one-size-fits-all solution. Every start-up is different and will require a unique approach when it comes to finding the right investors and securing funding. However, there are some common challenges that entrepreneurs face when they first start building their start-ups. 
 
