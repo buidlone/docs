@@ -1,8 +1,6 @@
 # 🖥 Technical solution
 
-*V1 implementation is under development, the latest changes can be seen on our Github repository* 
-
-[**LCF protocol implementation**](https://github.com/buidlone/LCF-protocol")
+*V1 implementation is under development, the latest changes can be seen on our Github repository* [**LCF protocol implementation**](https://github.com/buidlone/LCF-protocol)
 
 ## Dictionary
 
