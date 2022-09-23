@@ -22,7 +22,7 @@ A positive figure for cash flow from financing activities means more money is fl
 
 ## Linear Cash Flow from Investing (LCFI)
 
-Linear Cash flow from investing activities includes any inflows or outflows of cash from a company's long-term investments (such as crypto assets - $DPP). 
+Linear Cash flow from investing activities includes any inflows or outflows of cash from a company's long-term investments (such as crypto assets - `$DPP`). 
 
 Cash flow from investing activities involves long-term uses of cash. The purchase or sale of a fixed asset like property, plant, or equipment would be an investing activity. Also, proceeds from the sale of a division or cash out as a result of a merger or acquisition would fall under investing activities. 
 
