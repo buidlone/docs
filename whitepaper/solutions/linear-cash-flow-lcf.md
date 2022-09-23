@@ -6,7 +6,6 @@ Linear Cash Flow is a constant flow of transactions that are executed automatica
 This type of cash flow has the potential to revolutionize the way that businesses and organizations operate. As more people learn about Linear Cash Flow (LCF), it will likely become more popular and mainstream. 
 
 ## Layer 1 solution
-****
 
 LCF is a new concept in the world of cryptocurrency and blockchain technology. It is a type of cash flow that is made on the protocol side by an Investment pool. 
 
@@ -15,7 +14,6 @@ This allows for reducing the risk from the Investor side and ensures stable fund
 The Linear Cash Flow protocol enables you to move assets on-chain following predefined rules called - agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real time! No further transactions are required. The Smart contract framework works on Layer 1 Ethereum (inspired by SuperFluid protocol). 
 
 ## Benefits
-****
 
 **LCF protocol benefits:** 
 
@@ -32,7 +30,7 @@ LCF protocol enables you to identify the conditions for releasing payments and a
 It is important to note that tokens allocated to the flow will not be deposited straight away. Instead, money is counted on a regular basis every second in proportionate instalments. If investors are not happy with the overall results of the project, they can stop funding by proposing emergency fraud voting. This system ensures that projects are held accountable and that investors can recoup their funds if necessary. As a result, it is an important safeguard for both investors and project organizers. 
 
 ## Real-time balances
-****
+
 LCF has new way of handling project financing that allows for the transfer of money as it is received, at every block. This potentially enables projects and investors to operate with no working capital or delays in payments. The protocol is based on the simple concept of allowing money to flow in a linear fashion, from one party to another, as it is generated. This could potentially revolutionize the way projects are funded, as it would allow for a more efficient use of resources and eliminate the need for waiting periods or interim funding. 
 
 This protocol is still in its early stages of development, but it has already attracted the attention of some major players in the world of finance. If it continues to gain traction, it could have a significant impact on the way projects are funded in the future. 
