@@ -1,6 +1,6 @@
 # 💱Tokenomics
 
-## LCFI Model:
+## LCFI Model
 
 We present The Linear Cash Flow from Investment model which is an improvement on the current user incentives model. 
 
