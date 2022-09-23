@@ -13,11 +13,11 @@ To vote for a project, investors will need to deposit DAO tokens into the projec
 
 *buidl1* is changing the way we make decisions about the projects we support, and it is sure to have a huge impact on the way we invest in the future. 
 
- 📌 ️You will have a say in the project and be able to vote on proposals/milestones 
+ - ️You will have a say in the project and be able to vote on proposals/milestones 
 
- 📌️ Your stake will present the vote, meaning you don't need to be there to cast your vote 
+ - Your stake will present the vote, meaning you don't need to be there to cast your vote 
  
- 📌️ The voting process is transparent and can be verified 
+ - The voting process is transparent and can be verified 
 
 ## Proposal request
 
