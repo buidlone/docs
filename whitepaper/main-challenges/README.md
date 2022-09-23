@@ -8,4 +8,4 @@ Having multiple capital sources means you're not totally reliant on any source. 
 
 Additionally, diversified funding can help to insulate you against unexpected challenges. If one funding source dries up, you will still have others to fall back on. In today's uncertain world, having a solid and diversified financial foundation is more critical than ever. 
 
-**The trust problem for both parties - that's what we want to change**
+*The trust problem for both parties - that's what we want to change*
