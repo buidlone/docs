@@ -1,7 +1,6 @@
 # 📈Retail Investors
 
 ## Transparent execution
-****
 Most investors are losing money by allocating entire investments into early-stage projects due to the high risk of crypto projects not being completed. 
 
 The main reason for this is the unorganized fundraising process workflow or dishonest founders. For example, a recent study found that out of 1,450 ICO projects, only 4% were successfully completed, and 42% failed. This means that there is a high chance that your investment will not pan out if you invest in an early-stage project. 
@@ -13,7 +12,6 @@ According to Reuters, as more money pours into the space from retail and institu
 Even sophisticated investors with a keen eye and understanding of financial details can fall prey to such scams. 
 
 ## Tracking progress
-****
 
 One of the most important aspects of a successful business venture is ensuring that there are adequate checks and balances in place to track progress and identify any potential problems. 
 
@@ -22,7 +20,6 @@ Without these safeguards, it is all too easy for a project to lose momentum and 
 In addition, if a project does run into trouble, investors may be reluctant to provide additional funding if they feel they do not have sufficient control over how their money is being spent. As such, it is essential that businesses have mechanisms in place to ensure that progress is being made and that any potential issues are identified early on. Only by doing so can businesses hope to achieve long-term success. 
 
 ## Uncontrollable investment
-****
 
 As an investor, it can be challenging to know when to cut your losses and move on. After all, when you put your money into a new venture, you're putting your faith in the team behind it. However, there are certain tell-tale signs that a project is doomed to fail, no matter how much money you pour into it. If the founders show a lack of commitment or fail to meet deadlines, it is likely the project will soon fizzle out. Similarly, if momentum starts to flag and excitement starts to dissipate, it's time to start considering other options. In short, investors need to be able to read the signs and know when it's time to walk away. Otherwise, they risk throwing away good money into a dead-end project. 
 
