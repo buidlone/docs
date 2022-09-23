@@ -25,9 +25,9 @@ The community often has great ideas for improving businesses, implementing new f
 
 This system ensures that only the most popular and impactful proposals are approved, and that the community has a say in how their investment is used. As a result, the governance pool is an essential tool for ensuring that businesses are run efficiently and effectively. 
 
- ✅ **If the required percentage of votes is reached** - the requested proposal will be approved and all locked tokens with rewards will be returned. 
+ **If the required percentage of votes is reached** - the requested proposal will be approved and all locked tokens with rewards will be returned. 
 
- 🚫 **If the required percentage votes are not reached** - the requested proposal won't be approved, and all locked tokens will be returned. 
+**If the required percentage votes are not reached** - the requested proposal won't be approved, and all locked tokens will be returned. 
 
 
 
