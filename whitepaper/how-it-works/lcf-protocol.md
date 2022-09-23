@@ -6,9 +6,9 @@ The Protocol involves two main models:
 * Linear Cash Flow from Financing (LCFF)
 * Linear Cash Flow from Investing (LCFI).
 
-**LCFF** - allows users to receive financing in the form of cashflow tokens, which can be used to purchase goods and services or exchanged for other currencies. 
+📃 **LCFF** - allows users to receive financing in the form of cashflow tokens, which can be used to purchase goods and services or exchanged for other currencies. 
 
-**LCFI** - enables users to invest in new projects and ventures, receiving cashflow tokens in return. 
+📃 **LCFI** - enables users to invest in new projects and ventures, receiving cashflow tokens in return. 
 
 By eliminating the need for intermediaries and third-party approvals, Linear Cash Flow provides a simpler, more efficient way of managing project finances. 
 
