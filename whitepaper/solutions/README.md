@@ -1,4 +1,4 @@
-# 🏔 Solutions
+# 🔍Solutions
 
 Based on market overview and common issues buidl1  is going to offer solutions that will help to overcome existing market problems.
 
