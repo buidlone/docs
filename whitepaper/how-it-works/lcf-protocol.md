@@ -26,5 +26,4 @@ Linear Cash flow from investing activities includes any inflows or outflows of c
 
 Cash flow from investing activities involves long-term uses of cash. The purchase or sale of a fixed asset like property, plant, or equipment would be an investing activity. Also, proceeds from the sale of a division or cash out as a result of a merger or acquisition would fall under investing activities. 
 
-
-![](<../../.gitbook/assets/LCF.png>)
+![GitHub-Mark-Light](<../../.gitbook/assets/LCF_W.png>)![GitHub-Mark-Dark](<../../.gitbook/assets/LCF.png>)
