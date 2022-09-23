@@ -12,8 +12,6 @@ The Protocol involves two main models:
 
 By eliminating the need for intermediaries and third-party approvals, Linear Cash Flow provides a simpler, more efficient way of managing project finances. 
 
-![](<../../.gitbook/assets/LCF.png>)
-
 ## Linear Cash Flow from Financing (LCFF)
 
 ### What Is Linear Cash Flow From Financing Activities?
@@ -29,4 +27,4 @@ Linear Cash flow from investing activities includes any inflows or outflows of c
 Cash flow from investing activities involves long-term uses of cash. The purchase or sale of a fixed asset like property, plant, or equipment would be an investing activity. Also, proceeds from the sale of a division or cash out as a result of a merger or acquisition would fall under investing activities. 
 
 
-
+![](<../../.gitbook/assets/LCF.png>)
