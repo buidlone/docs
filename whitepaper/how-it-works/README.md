@@ -26,6 +26,13 @@ We created a visual schema to show the life cycle of the project in build1 proto
 | Private       | Invested funds \* 1.9 |
 | Public limted | Invested funds \* 1   |
 
+### Distribution period
+
+| Type             | Period           | Purpose                                     |
+| ---------------- | ---------------- | ------------------------------------------- |
+| Seed funds       | Instant          | Instant payout for initial project expences |
+| Linear cash flow | Milestone period | Allows to secure investors unused funds     |
+
 ### Execution period
 
 | Type        | Period                | Purpose                                                            |
@@ -33,11 +40,5 @@ We created a visual schema to show the life cycle of the project in build1 proto
 | Voting pool | Entire project period | Suspend the project funding when it reaches 51% of rejection votes |
 | Milestone   | 1-3 months            | Keeps track of the schedule, deadlines and fund usage.             |
 
-### Distribution period
-
-| Type             | Period           | Purpose                                     |
-| ---------------- | ---------------- | ------------------------------------------- |
-| Seed funds       | Instant          | Instant payout for initial project expences |
-| Linear cash flow | Milestone period | Allows to secure investors unused funds     |
 
 
