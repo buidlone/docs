@@ -16,7 +16,7 @@ Funds allocated to the stream will not be deposited straight away, money is coun
 
 We created a visual schema to show the life cycle of the project in build1 protocol. We cover all three phases - fundraising, execution and distribution. 
 
-![Lifecycle of project in time](<../../.gitbook/assets/Project_Cycle.png>)
+![GitHub-Mark-Light](<../../.gitbook/assets/Project_Cycle_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/Project_Cycle.png#gh-dark-mode-only>)
 
 ### Fundraising period
 
