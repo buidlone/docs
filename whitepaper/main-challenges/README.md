@@ -1,7 +1,6 @@
 # 🌶 Main challenges
 
 ## Trust problem
-****
 
 Investors are naturally wary of putting their money into something that hasn't been proven yet. Early-stage projects can lack investors' trust because they haven't weathered any storms or faced any challenges.
 
