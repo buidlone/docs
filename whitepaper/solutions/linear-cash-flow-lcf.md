@@ -1,5 +1,4 @@
 # 🚰Linear Cash Flow (LCF)
-****
 
 Linear Cash Flow is a constant flow of transactions that are executed automatically every time a new block is minted on the blockchain. These transfers are finalized simultaneously, meaning that there is no need for manual intervention or approval from a third party. This makes Linear Cash Flow an ideal solution for businesses that need to send large amounts of money on a regular basis. With Linear Cash Flow, businesses can be confident that their transactions will be processed quickly and efficiently. Thus, its protocol offers regular investors a higher degree of safety by spreading investments out over time. 
 
