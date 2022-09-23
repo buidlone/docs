@@ -16,7 +16,8 @@ The investment pool locks the funds until the project soft cap is reached. Achie
  ✅ Provides peace of mind to both investors and creators alike 
 
  ✅ Holds the creator accountable to meeting milestones and timelines 
-## Case:
+ 
+## Case overview
 
 **Let's talk about the flow of money in the view of The Investment Pool:**
 
