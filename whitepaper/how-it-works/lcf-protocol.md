@@ -1,4 +1,4 @@
-# LCF protocol
+# 📋LCF protocol
 ## Protocol explanation
 
 The Protocol involves two main models:
