@@ -28,5 +28,6 @@ The investment pool locks the funds until the project soft cap is reached. Achie
 5. Project "ABC" has allocated $ABC tokens to its investors 
 6. $ABC allocation will be distributed to initial investors using the LCF protocol 
 
+![GitHub-Mark-Light](<../../.gitbook/assets/IP_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/IP.png#gh-dark-mode-only>)
 ![Investment pool workflow](<../../.gitbook/assets/IP.png>)
 
