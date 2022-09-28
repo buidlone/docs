@@ -6,7 +6,7 @@ We present The Linear Cash Flow from Investment model which is an improvement on
 
 It will allow users to get rewards in real time to their wallets without any collection procedure (while remaining on Layer1 blockchain). This will be a great opportunity for `$BUIDL1` holders to get rewards instantly by using the LCF protocol. 
 
-![GitHub-Mark-Light](<../../.gitbook/assets/LCF_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/LCF.png#gh-dark-mode-only>)
+![Linear Cash Flow from Investment model](<../../.gitbook/assets/LCF.png>)
 
 ## Distribution
 
