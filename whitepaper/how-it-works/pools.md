@@ -2,8 +2,8 @@
 
 ## Project Investment Pool
 
-![GitHub-Mark-Light](<../../.gitbook/assets/IP_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/IP.png#gh-dark-mode-only>)
+![Investment pool](<../../.gitbook/assets/IP.png>)
 
 ## buidl1 DAO Treasury
 
-![GitHub-Mark-Light](<../../.gitbook/assets/LCF_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/LCF.png#gh-dark-mode-only>)
+![DAO Treasury](<../../.gitbook/assets/LCF.png>)
