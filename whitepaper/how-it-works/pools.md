@@ -1,9 +1,9 @@
-# 🌊Pools
+# Pools
 
-## Project Investment Pool
+### Project Investment Pool
 
-![GitHub-Mark-Light](<../../.gitbook/assets/IP_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/IP.png#gh-dark-mode-only>)
+![](<../../.gitbook/assets/image (4).png>)
 
-## buidl1 DAO Treasury
+### buidl1 DAO Treasury
 
-![GitHub-Mark-Light](<../../.gitbook/assets/LCF_W.png#gh-light-mode-only>)![GitHub-Mark-Dark](<../../.gitbook/assets/LCF.png#gh-dark-mode-only>)
+![](<../../.gitbook/assets/image (10).png>)
