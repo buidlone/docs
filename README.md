@@ -1,6 +1,8 @@
 # What is buidl1?
 
-Our platform aims to make things simpler for investors, by listing all crypto projects in one place and providing clear information on each one. This way, investors can easily see which projects might be of interest to them and research them further before making any decisions.
+### TL;DR -  We are a launchpad that secures invested capital in web3 projects. No more scams, no more rug pulls
+
+We propose a better way to invest in web3 projects, which will benefit investors and projects at the same time:&#x20;
 
 * buidl1 is the first to implement Linear Cash Flow, a blockchain protocol that mitigates investment risk and stabilizes project funding
 * With buidl1, you can rest assured that your money is being put to good use by smart contracts that vet projects before they receive funding
