@@ -1,6 +1,6 @@
 # What is buidl1?
 
-### TL;DR -  We are a launchpad that secures invested capital in web3 projects. No more scams, no more rug pulls
+### TL;DR -  We are a protocol and launchpad that secures invested capital in web3 projects. No more scams, no more rug pulls
 
 We propose a better way to invest in web3 projects, which will benefit investors and projects at the same time:&#x20;
 
