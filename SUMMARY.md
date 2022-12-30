@@ -24,6 +24,7 @@
 
 ## Use Cases
 
+* [🚀 For Launchpads](use-cases/for-launchpads.md)
 * [🎯 For Projects](use-cases/for-projects.md)
 * [💼 For Investors](use-cases/for-investors.md)
 
