@@ -9,11 +9,21 @@ We propose a better way to invest in web3 projects, which will benefit investors
 * **Investor**: Investors can use their voting ticket to reject project funding if they are not unsatisfied with the overall results of the web3 start-up.
 * **Project**: Projects will receive more trust as all projects listed in the protocol will have live roadmaps, clear vision, and pre-planned funding allocations based on goals so which will increase the overall trust of investors even if the project is in the early stage.
 
+**Launchpads:** ready-to-use protocol solution for launchpads, the only thing you need to do is integrate LCF protocol into your platform as a main or an alternative fundraising option. That's it!&#x20;
 
+Check more about use cases for launchpads:
 
-Take a look at the innovative Linear Cash Flow Financing Model:
+{% content-ref url="use-cases/for-launchpads.md" %}
+[for-launchpads.md](use-cases/for-launchpads.md)
+{% endcontent-ref %}
+
+## The Protocol
+
+We have created an LCF protocol. Most of the time diagrams speak for themselves. Take a look at the innovative Linear Cash Flow Financing Model which is the core of our Protocol:
 
 ![](<.gitbook/assets/schema matui pataisyta 3 -02-02 (1).png>)
+
+If you want to learn more or if the diagram was difficult to understand, check here:
 
 {% content-ref url="whitepaper/how-it-works/lcf-protocol.md" %}
 [lcf-protocol.md](whitepaper/how-it-works/lcf-protocol.md)
