@@ -2,12 +2,16 @@
 
 ### TL;DR -  We are an integrable protocol that secures invested capital in web3 projects. No more scams, no more rug pulls
 
-We propose a better way to invest in web3 projects, which will benefit investors and projects at the same time:&#x20;
+buidl1 is the first to implement Linear Cash Flow, a blockchain protocol that mitigates investment risk and stabilizes project funding.&#x20;
 
-* buidl1 is the first to implement Linear Cash Flow, a blockchain protocol that mitigates investment risk and stabilizes project funding
-* With buidl1, you can rest assured that your money is being put to good use by smart contracts that vet projects before they receive funding
+We propose a better way to invest in web3 projects, which will benefit investors and projects at the same time&#x20;
 
-Take a look at innovative Linear Cash Flow Financing Model:
+* **Investor**: Investors can use their voting ticket to reject project funding if they are not unsatisfied with the overall results of the web3 start-up.
+* **Project**: Projects will receive more trust as all projects listed in the protocol will have live roadmaps, clear vision, and pre-planned funding allocations based on goals so which will increase the overall trust of investors even if the project is in the early stage.
+
+
+
+Take a look at the innovative Linear Cash Flow Financing Model:
 
 ![](<.gitbook/assets/schema matui pataisyta 3 -02-02 (1).png>)
 

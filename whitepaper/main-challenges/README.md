@@ -38,7 +38,9 @@ We are in it for the long term.&#x20;
 
 Attentive to the needs of both seasoned investors and up-and-coming projects, buidl1 aims to provide a simple and stress-free solution to the trust problem we have in crypto. Our protocol allows for trust between transacting parties to be re-established gradually, at its own pace. Some things change slowly. That’s okay.
 
-Be calm and collected as you watch trust build up again: step-by-step, second-by-second. With mitigated investor risk and improved project accountability, you can once more clearly see this ever-changing space for what it is: a new world, rich with possibilities.
+Be calm and collected as you watch trust build up again: step-by-step, second-by-second.&#x20;
+
+With mitigated investor risk and improved project accountability, you can once more clearly see this ever-changing space for what it is: a new world, rich with possibilities.
 
 
 
