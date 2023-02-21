@@ -14,7 +14,7 @@ LCF is a new concept in the world of cryptocurrency and blockchain technology. I
 
 This allows for reducing the risk from the Investor side and ensures stable funds for projects. The pooling of resources helps reduce the volatility often seen with cryptocurrency assets. In addition, LCF can help to ensure that projects have the necessary funding to continue operating.
 
-The Linear Cash Flow protocol enables you to move assets on-chain following predefined rules called - agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real time! No further transactions are required. The Smart contract framework works on Layer 1 Ethereum (inspired by SuperFluid protocol).
+The Linear Cash Flow protocol enables you to move assets on-chain following predefined rules called - agreements. With a single on-chain transaction, the money will flow from your wallet to the receiver in real-time. No further transactions are required. The Smart contract framework works on Layer 1 Ethereum, using **SuperFluid protocol**
 
 ## Benefits
 
